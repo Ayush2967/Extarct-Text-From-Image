@@ -18,3 +18,6 @@ To use the Extract Text from Image Chrome Extension, follow these steps:
  
 ## Preview
 <img src="ayush.png">
+<hr>
+ <p align="center" >
+ Made with ❤️ by Ayush Jain</p>
