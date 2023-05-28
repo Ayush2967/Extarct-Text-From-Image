@@ -1,1 +1,2 @@
-# image-to-form-fill-up
+# Extract Text from Image
+Chrome Extension to extract text from images.
