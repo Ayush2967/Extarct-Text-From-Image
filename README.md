@@ -15,3 +15,6 @@ To use the Extract Text from Image Chrome Extension, follow these steps:
 6. Click on the "Load unpacked" button.
 7. Select the folder where you extracted the extension files.
 8. The Extract Text from Image extension will now be installed and ready to use.
+ 
+## Preview
+<img src="ayush.png">
